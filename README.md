@@ -8,5 +8,6 @@
 
 ## Pinout and example
 * Pinout
-
+<img src="" alt="Pinout">
 * Example
+<img src="" alt="Pinout">
