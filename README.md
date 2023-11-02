@@ -8,6 +8,6 @@
 
 ## Pinout and example
 * Pinout
-<img src="" alt="Pinout">
+<img src="https://github.com/alvg77/led-strip-numbers-display/blob/main/pinout.png" alt="Pinout">
 * Example
-<img src="" alt="Pinout">
+<img src="https://github.com/alvg77/led-strip-numbers-display/blob/main/example.png" alt="Pinout">
